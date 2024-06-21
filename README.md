@@ -6,8 +6,8 @@
 
 <img src="./assets/source-preview.png" alt="Source Preview" width="100%">
 
-## Live Demo
+## Implementation
 
-[here]
+[here](https://asmaahamid02.github.io/langing-page-clone-bootstrap/)
 
 <img src="./assets/implementation-preview.png" alt="Preview" width="100%">
